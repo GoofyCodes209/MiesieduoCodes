@@ -1,8 +1,5 @@
 ## Hey 👋, I'm GoofyCodes!👍  
   
-
-
-
 ### Socials  
 <div align="center">
 <a href="https://github.com/MiesieduoCodes" target="_blank">
